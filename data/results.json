@@ -1,0 +1,240 @@
+{
+ "T-1001": {
+  "ticket_id": "T-1001",
+  "category": "Authentication",
+  "priority": "P2",
+  "root_causes": [
+   "Expired credentials or account lockout"
+  ],
+  "kb_ids": [
+   "KB-101",
+   "KB-412"
+  ],
+  "redactions": {
+   "EMAIL": 1,
+   "IP": 1,
+   "PHONE": 1
+  },
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ },
+ "T-1002": {
+  "ticket_id": "T-1002",
+  "category": "Database",
+  "priority": "P1",
+  "root_causes": [
+   "Database connection pool exhausted"
+  ],
+  "kb_ids": [
+   "KB-205"
+  ],
+  "redactions": {},
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ },
+ "T-1003": {
+  "ticket_id": "T-1003",
+  "category": "Storage",
+  "priority": "P2",
+  "root_causes": [
+   "Disk volume full (logs/temp files growing unchecked)"
+  ],
+  "kb_ids": [
+   "KB-310"
+  ],
+  "redactions": {},
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ },
+ "T-1004": {
+  "ticket_id": "T-1004",
+  "category": "Email",
+  "priority": "P2",
+  "root_causes": [
+   "Corrupt mail profile or OST cache"
+  ],
+  "kb_ids": [
+   "KB-412"
+  ],
+  "redactions": {},
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ },
+ "T-1005": {
+  "ticket_id": "T-1005",
+  "category": "Performance",
+  "priority": "P3",
+  "root_causes": [
+   "Slow queries or resource contention"
+  ],
+  "kb_ids": [
+   "KB-520"
+  ],
+  "redactions": {},
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ },
+ "T-1006": {
+  "ticket_id": "T-1006",
+  "category": "Authentication",
+  "priority": "P2",
+  "root_causes": [
+   "Expired credentials or account lockout"
+  ],
+  "kb_ids": [
+   "KB-101"
+  ],
+  "redactions": {
+   "IP": 2
+  },
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ },
+ "T-1007": {
+  "ticket_id": "T-1007",
+  "category": "Hardware",
+  "priority": "P3",
+  "root_causes": [
+   "Print spooler stopped or network issue"
+  ],
+  "kb_ids": [
+   "KB-630"
+  ],
+  "redactions": {
+   "IP": 1
+  },
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ },
+ "T-1008": {
+  "ticket_id": "T-1008",
+  "category": "Database",
+  "priority": "P2",
+  "root_causes": [
+   "Database connection pool exhausted"
+  ],
+  "kb_ids": [
+   "KB-205"
+  ],
+  "redactions": {},
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ },
+ "T-1009": {
+  "ticket_id": "T-1009",
+  "category": "Authentication",
+  "priority": "P2",
+  "root_causes": [
+   "Expired credentials or account lockout"
+  ],
+  "kb_ids": [
+   "KB-101"
+  ],
+  "redactions": {
+   "IP": 1,
+   "SECRET": 1
+  },
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ },
+ "T-1010": {
+  "ticket_id": "T-1010",
+  "category": "Storage",
+  "priority": "P2",
+  "root_causes": [
+   "Disk volume full (logs/temp files growing unchecked)"
+  ],
+  "kb_ids": [
+   "KB-310"
+  ],
+  "redactions": {},
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ },
+ "T-1011": {
+  "ticket_id": "T-1011",
+  "category": "Database",
+  "priority": "P2",
+  "root_causes": [
+   "Database connection pool exhausted"
+  ],
+  "kb_ids": [
+   "KB-205"
+  ],
+  "redactions": {},
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ },
+ "T-1012": {
+  "ticket_id": "T-1012",
+  "category": "Hardware",
+  "priority": "P4",
+  "root_causes": [
+   "Unclear - needs engineer investigation"
+  ],
+  "kb_ids": [],
+  "redactions": {},
+  "source": "heuristic",
+  "review": {
+   "status": "pending",
+   "category": null,
+   "priority": null,
+   "note": ""
+  }
+ }
+}

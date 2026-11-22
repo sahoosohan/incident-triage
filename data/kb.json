@@ -1,0 +1,8 @@
+[
+ {"id":"KB-101","title":"Resetting VPN/SSO credentials and clearing account lockouts","keywords":["vpn","password","login","locked","credentials","auth","mfa"]},
+ {"id":"KB-205","title":"Tuning DB connection pools and finding leaked connections","keywords":["database","connection","pool","timeout","sql","orders","api"]},
+ {"id":"KB-310","title":"Freeing disk space: log rotation and temp cleanup","keywords":["disk","space","storage","full","volume","build"]},
+ {"id":"KB-412","title":"Rebuilding an Outlook profile and clearing the OST cache","keywords":["outlook","email","mail","sync"]},
+ {"id":"KB-520","title":"Diagnosing slow dashboards and long-running queries","keywords":["slow","latency","loading","dashboard","query"]},
+ {"id":"KB-630","title":"Fixing offline printers: spooler restart and port checks","keywords":["printer","offline","spooler","print"]}
+]

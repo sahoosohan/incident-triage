@@ -1,0 +1,98 @@
+[
+ {
+  "id": "T-1001",
+  "subject": "Cannot log in to VPN",
+  "body": "Since this morning the VPN rejects my password. Reach me at priya.sharma@example.com or +91 98765 43210.",
+  "age_hours": 30,
+  "resolved_after_hours": 5,
+  "log": "T-1001.log"
+ },
+ {
+  "id": "T-1002",
+  "subject": "Production database connection timeouts",
+  "body": "Orders API returning 500 errors for all users in production.",
+  "age_hours": 3,
+  "resolved_after_hours": null,
+  "log": "T-1002.log"
+ },
+ {
+  "id": "T-1003",
+  "subject": "Disk full on file server",
+  "body": "Users cannot save files to the shared drive.",
+  "age_hours": 20,
+  "resolved_after_hours": null,
+  "log": "T-1003.log"
+ },
+ {
+  "id": "T-1004",
+  "subject": "Outlook not syncing",
+  "body": "Mailbox stuck on 'Updating' for two days.",
+  "age_hours": 50,
+  "resolved_after_hours": 20,
+  "log": "T-1004.log"
+ },
+ {
+  "id": "T-1005",
+  "subject": "Slow dashboard loading",
+  "body": "Sales dashboard takes over a minute to load.",
+  "age_hours": 10,
+  "resolved_after_hours": null,
+  "log": "T-1005.log"
+ },
+ {
+  "id": "T-1006",
+  "subject": "VPN login failing again",
+  "body": "Same VPN login issue as last week, account seems locked. Server 10.20.30.40.",
+  "age_hours": 6,
+  "resolved_after_hours": null,
+  "log": "T-1006.log"
+ },
+ {
+  "id": "T-1007",
+  "subject": "Printer offline 3rd floor",
+  "body": "Printer shows offline for everyone on floor 3.",
+  "age_hours": 70,
+  "resolved_after_hours": null,
+  "log": "T-1007.log"
+ },
+ {
+  "id": "T-1008",
+  "subject": "DB connection pool exhausted in reporting",
+  "body": "Reporting jobs fail with connection errors.",
+  "age_hours": 26,
+  "resolved_after_hours": 9,
+  "log": "T-1008.log"
+ },
+ {
+  "id": "T-1009",
+  "subject": "Password reset not working",
+  "body": "Reset link fails. My current password=Summer2024! if that helps.",
+  "age_hours": 2,
+  "resolved_after_hours": null,
+  "log": "T-1009.log"
+ },
+ {
+  "id": "T-1010",
+  "subject": "Disk space alert on build server",
+  "body": "Builds failing, volume at 100%.",
+  "age_hours": 7,
+  "resolved_after_hours": null,
+  "log": "T-1010.log"
+ },
+ {
+  "id": "T-1011",
+  "subject": "Orders API 500 errors again",
+  "body": "Intermittent 500s on checkout, timeouts to the database.",
+  "age_hours": 1,
+  "resolved_after_hours": null,
+  "log": "T-1011.log"
+ },
+ {
+  "id": "T-1012",
+  "subject": "Request new monitor",
+  "body": "Need a second monitor for my desk.",
+  "age_hours": 100,
+  "resolved_after_hours": 60,
+  "log": null
+ }
+]
