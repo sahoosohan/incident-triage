@@ -4,6 +4,8 @@ A Python tool that triages IT support tickets with an LLM. It reads tickets and 
 
 Runs fully offline with a rule-based fallback, so it works as a demo without an API key.
 
+![Dashboard](docs/dashboard.png)
+
 ## Features
 
 - **LLM triage**: classifies each ticket (category, priority P1 to P4), suggests up to two likely root causes and relevant KB articles, returned as structured JSON.
